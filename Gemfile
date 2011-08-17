@@ -1,4 +1,4 @@
-source 'http://rubygems.org'
+source 'http://rubygems.dev'
 
 gem 'rails', '~> 3.1.0.rc4'
 gem 'mysql2'
